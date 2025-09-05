@@ -55,13 +55,62 @@ Open terminal and try execute some kali linux commands
 
 ```
 
+
 # Output:
+
+# SITE:
+<img width="1663" height="1041" alt="site" src="https://github.com/user-attachments/assets/42a939fb-c283-41ff-9780-f526b6124292" />
+
+
+# INURL:
+<img width="1490" height="1032" alt="admin" src="https://github.com/user-attachments/assets/fa4c1ca7-16e0-45f9-86d4-431e3ea43858" />
+
+
+
+# INTITLE:
+
+<img width="1571" height="1028" alt="index" src="https://github.com/user-attachments/assets/9563d2c6-f958-4c2f-9f73-3a9b79a1bdc6" />
+
+
+# FILETYPE:
+<img width="1602" height="1044" alt="filetype" src="https://github.com/user-attachments/assets/c82cdb01-1a19-4150-a4af-253ca7c29692" />
+
+
+
+# INTEXT
+<img width="1425" height="1028" alt="confidentisl" src="https://github.com/user-attachments/assets/0c4c7acc-1b53-4d54-a9cf-e7963da0a1bf" />
+
+
+# LINK
+<img width="1511" height="938" alt="linl" src="https://github.com/user-attachments/assets/564c4611-fcde-4feb-8c89-7120d53a226b" />
+
+
+
+# SUBSITES
+<img width="1666" height="1038" alt="subsites" src="https://github.com/user-attachments/assets/3636238e-0b9c-4136-892d-7bb7bbd6173d" />
+
+
+
 
 
 # DNS Enumeration
+![WhatsApp Image 2025-09-05 at 9 16 26 PM](https://github.com/user-attachments/assets/7d150c01-6633-40e7-b630-2e5713b69747)
+
+
 
 
 ## DNS Recon
+
+![WhatsApp Image 2025-09-05 at 9 16 26 PM](https://github.com/user-attachments/assets/7d150c01-6633-40e7-b630-2e5713b69747)
+```
+ provides the ability to perform:
+ Check all NS records for zone transfers
+ Enumerate general DNS records for a given domain (MX, SOA, NS, A, AAAA, SPF , TXT)
+ Perform common SRV Record Enumeration
+ Top level domain expansion
+```
+
+
 
 | Record Type | Meaning                        | Example Output                   |
 | ----------- | ------------------------------ | -------------------------------- |
@@ -86,6 +135,43 @@ Open terminal and try execute some kali linux commands
 
 
 ## OUTPUT:
+![WhatsApp Image 2025-09-05 at 10 12 10 PM](https://github.com/user-attachments/assets/cb25c836-5a80-449f-b938-d7cd4d4a4646)
+
+
+# NSLOOKUP
+
+
+![WhatsApp Image 2025-09-05 at 9 16 26 PM (1)](https://github.com/user-attachments/assets/a975f6b4-acc0-4820-b543-d9381c3f10a4)
+
+
+# DIG
+![WhatsApp Image 2025-09-05 at 9 16 26 PM (2)](https://github.com/user-attachments/assets/a22bb910-29dc-4180-8089-1f833c0b38b9)
+
+
+# HOST
+
+![WhatsApp Image 2025-09-05 at 9 16 26 PM (3)](https://github.com/user-attachments/assets/6bc3653d-dd3d-4099-a4de-389ce989dbd2)
+
+
+
+# DNSENUM
+
+![WhatsApp Image 2025-09-05 at 9 16 26 PM](https://github.com/user-attachments/assets/7dab06a4-dc43-473d-bcdf-10edd5900829)
+
+
+# DNSRECON
+
+![WhatsApp Image 2025-09-05 at 9 16 26 PM](https://github.com/user-attachments/assets/7d150c01-6633-40e7-b630-2e5713b69747)
+
+# FIERCE 
+![WhatsApp Image 2025-09-05 at 9 16 27 PM](https://github.com/user-attachments/assets/1348678d-c57b-4038-8f2a-f672172da755)
+
+
+
+# Harvestor
+![WhatsApp Image 2025-09-05 at 9 16 27 PM (1)](https://github.com/user-attachments/assets/2980881c-e789-4823-81a6-fcbf8907fae5)
+
+
 
 ## Architecture Diagram 
 ```
@@ -128,6 +214,7 @@ dnsenum example.com
 
 
 
+
 ## smtp-user-enum
 **Purpose:** Standalone tool used to enumerate valid users by using the VRFY, EXPN, or RCPT TO commands.
 
@@ -136,9 +223,7 @@ dnsenum example.com
 ```
 smtp-user-enum -M VRFY -U users.txt -t <target-ip>
 ```
-  
- ## Output
-  
+
 
 
 ## nmap –script smtp-enum-users.nse <hostname>
@@ -151,6 +236,9 @@ smtp-user-enum -M VRFY -U users.txt -t <target-ip>
 nmap -p 25 --script smtp-enum-users.nse <target-ip>
 ```
 ## OUTPUT:
+
+![WhatsApp Image 2025-09-05 at 10 12 10 PM](https://github.com/user-attachments/assets/b20a1957-f5a9-4289-a270-f34bf399c131)
+
 
 
 
