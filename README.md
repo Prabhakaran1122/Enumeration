@@ -138,7 +138,7 @@ Open terminal and try execute some kali linux commands
 
 ## OUTPUT:
 
-![Uploading image.png…]()
+<img width="534" height="500" alt="image" src="https://github.com/user-attachments/assets/d01ed20f-7313-4c3b-b681-774fc12474b5" />
 
 
 
@@ -164,13 +164,15 @@ Open terminal and try execute some kali linux commands
 
 # DNSENUM
 
-<img width="653" height="515" alt="Screenshot 2025-09-13 084923" src="https://github.com/user-attachments/assets/2fe72548-2b95-43d7-bde8-3add10a8dbaa" />
+<img width="653" height="515" alt="Screenshot 2025-09-13 084923" src="https://github.com/user-attachments/assets/0ea13113-abaa-4359-aaeb-5bf677f31496" />
+
 
 
 
 # DNSRECON
 
-![WhatsApp Image 2025-09-05 at 9 16 26 PM](https://github.com/user-attachments/assets/7d150c01-6633-40e7-b630-2e5713b69747)
+<img width="653" height="515" alt="Screenshot 2025-09-13 084923" src="https://github.com/user-attachments/assets/0d348c3f-2fdc-4e32-b2f8-e54799494e72" />
+
 
 # FIERCE 
 <img width="651" height="501" alt="image" src="https://github.com/user-attachments/assets/33295466-b13b-4730-9fcb-f8153e1d2c4f" />
@@ -220,11 +222,6 @@ Open terminal and try execute some kali linux commands
 dnsenum example.com
 ```
 
-## Output:
-
-
-
-
 ## smtp-user-enum
 **Purpose:** Standalone tool used to enumerate valid users by using the VRFY, EXPN, or RCPT TO commands.
 
@@ -247,7 +244,7 @@ nmap -p 25 --script smtp-enum-users.nse <target-ip>
 ```
 ## OUTPUT:
 
-![WhatsApp Image 2025-09-05 at 10 12 10 PM](https://github.com/user-attachments/assets/b20a1957-f5a9-4289-a270-f34bf399c131)
+![Uploading image.png…]()
 
 
 
