@@ -94,14 +94,16 @@ Open terminal and try execute some kali linux commands
 
 
 # DNS Enumeration
-![WhatsApp Image 2025-09-05 at 9 16 26 PM](https://github.com/user-attachments/assets/7d150c01-6633-40e7-b630-2e5713b69747)
+<img width="653" height="515" alt="image" src="https://github.com/user-attachments/assets/17b63d2b-ff48-459d-a0b7-ee7f2ee43703" />
+
 
 
 
 
 ## DNS Recon
 
-![WhatsApp Image 2025-09-05 at 9 16 26 PM](https://github.com/user-attachments/assets/7d150c01-6633-40e7-b630-2e5713b69747)
+<img width="653" height="515" alt="image" src="https://github.com/user-attachments/assets/3251165d-e59f-47e7-b9ee-a4c0572aad99" />
+
 ```
  provides the ability to perform:
  Check all NS records for zone transfers
@@ -135,28 +137,35 @@ Open terminal and try execute some kali linux commands
 
 
 ## OUTPUT:
-![WhatsApp Image 2025-09-05 at 10 12 10 PM](https://github.com/user-attachments/assets/cb25c836-5a80-449f-b938-d7cd4d4a4646)
+
+![Uploading image.png…]()
+
 
 
 # NSLOOKUP
 
 
-![WhatsApp Image 2025-09-05 at 9 16 26 PM (1)](https://github.com/user-attachments/assets/a975f6b4-acc0-4820-b543-d9381c3f10a4)
+<img width="651" height="502" alt="image" src="https://github.com/user-attachments/assets/9e9fecef-4f92-454e-9098-add790633f04" />
+
 
 
 # DIG
-![WhatsApp Image 2025-09-05 at 9 16 26 PM (2)](https://github.com/user-attachments/assets/a22bb910-29dc-4180-8089-1f833c0b38b9)
+
+<img width="657" height="513" alt="image" src="https://github.com/user-attachments/assets/38d27fe0-5407-4e1f-9444-a3de7fa2cf98" />
+
 
 
 # HOST
 
-![WhatsApp Image 2025-09-05 at 9 16 26 PM (3)](https://github.com/user-attachments/assets/6bc3653d-dd3d-4099-a4de-389ce989dbd2)
+<img width="657" height="498" alt="image" src="https://github.com/user-attachments/assets/6c373efa-9732-4e1d-9d10-dac64e434cb6" />
+
 
 
 
 # DNSENUM
 
-![WhatsApp Image 2025-09-05 at 9 16 26 PM](https://github.com/user-attachments/assets/7dab06a4-dc43-473d-bcdf-10edd5900829)
+<img width="653" height="515" alt="Screenshot 2025-09-13 084923" src="https://github.com/user-attachments/assets/2fe72548-2b95-43d7-bde8-3add10a8dbaa" />
+
 
 
 # DNSRECON
@@ -164,7 +173,8 @@ Open terminal and try execute some kali linux commands
 ![WhatsApp Image 2025-09-05 at 9 16 26 PM](https://github.com/user-attachments/assets/7d150c01-6633-40e7-b630-2e5713b69747)
 
 # FIERCE 
-![WhatsApp Image 2025-09-05 at 9 16 27 PM](https://github.com/user-attachments/assets/1348678d-c57b-4038-8f2a-f672172da755)
+<img width="651" height="501" alt="image" src="https://github.com/user-attachments/assets/33295466-b13b-4730-9fcb-f8153e1d2c4f" />
+
 
 
 
